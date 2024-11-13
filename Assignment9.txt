@@ -1,5 +1,3 @@
-Assignment9
-
 db.orders.insertMany([    { orderId: 1, userId: 101, orderTotal: 120, orderStatus: "shipped", year: 2023, membershipTier: "VIP" },    { orderId: 2, userId: 102, orderTotal: 50, orderStatus: "pending", year: 2023, membershipTier: "Regular" },    { orderId: 3, userId: 103, orderTotal: 300, orderStatus: "shipped", year: 2022, membershipTier: "VIP" },    { orderId: 4, userId: 104, orderTotal: 200, orderStatus: "shipped", year: 2023, membershipTier: "VIP" },    { orderId: 5, userId: 105,
  orderTotal: 75, orderStatus: "shipped", year: 2023, membershipTier: "Regular" }]);
 
